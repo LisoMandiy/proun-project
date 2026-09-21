@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://prounproject.example/sitemap.xml
