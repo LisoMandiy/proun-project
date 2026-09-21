@@ -27,3 +27,4 @@ figcaption{font-size:.72rem;padding-top:8px;color:#b9b6ae}
 .sourcebox{padding:24px;border:1px solid var(--sec);background:#1b1e26;margin-top:28px}.sourcebox a{color:var(--sec)}
 footer{padding:48px 5vw;display:grid;grid-template-columns:1fr 1fr 2fr;gap:36px;border-top:1px solid var(--line);font-size:.9rem;color:#b9b6ae}
 @media(max-width:800px){nav{display:none}nav.open{display:flex;position:absolute;top:62px;left:0;right:0;background:var(--bg);padding:20px;flex-direction:column;border-bottom:1px solid var(--line)}.menu{display:block}.hero{grid-template-columns:1fr}h1{font-size:15vw}.cards,.facts,.media-grid,footer{grid-template-columns:1fr}.media-grid figure{min-height:240px}.abstract-art{transform:none}}
+body{font-family:'Rajdhani',sans-serif}h1,h2,h3,.brand,.cta,nav a,.eyebrow{font-family:'Rajdhani',sans-serif}
